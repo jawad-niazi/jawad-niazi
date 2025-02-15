@@ -1,28 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    <h1>Book Managment System</h1><br>
-    <label for="bookName">Book Name:</label><br>
-    <input type="text" id="bookName" placeholder="Enter Your Name"><br><br>
-     <label for="authorName">Author Name:</label>
-     <br><input type="text" id="authorName" placeholder="Enter Author Name"><br><br>
-     <br><br><label for="bookDescription">Book Description:</label>
-     <br><textarea id="bookDescription" rows="4"  placeholder="Enter book Description"></textarea>
-     <br><br><label for="pageNumber"> No. of pages</label>
-     <br><input type="number" id="pageNumber" ><br>
-     <button onclick="addBook()">Add Book</button>
+  </head>
+  <body>
+    <h1>Book Managment System</h1>
+    <br />
+    <label for="bookName">Book Name:</label><br />
+    <input
+      type="text"
+      id="bookName"
+      placeholder="Enter Your Name"
+    /><br /><br />
+    <label for="authorName">Author Name:</label>
+    <br /><input
+      type="text"
+      id="authorName"
+      placeholder="Enter Author Name"
+    /><br /><br />
+    <br /><br /><label for="bookDescription">Book Description:</label>
+    <br /><textarea
+      id="bookDescription"
+      rows="4"
+      placeholder="Enter book Description"
+    ></textarea>
+    <br /><br /><label for="pageNumber"> No. of pages</label> <br /><input
+      type="number"
+      id="pageNumber"
+    /><br />
+    <button onclick="addBook()">Add Book</button>
 
-      <h2>books</h2>
-      <div id="books">
-
-      </div>
-      <script src="book_system.js"></script>
-      
-     
-</body>
+    <h2>books</h2>
+    <div id="books"></div>
+    <script src="book_system.js"></script>
+  </body>
 </html>
