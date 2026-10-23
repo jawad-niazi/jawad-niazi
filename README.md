@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jawad Hussain 👋</h1>
+<h1 align="center">Hi, I'm Jawad Hussain </h1>
  
 <p align="center">
   <b>Full-Stack Developer</b> · MERN &amp; Next.js · Workflow Automation<br/>
@@ -11,14 +11,14 @@
 </p>
 ---
  
-## 👨‍💻 About Me
+## About Me
  
 I am a Computer Science graduate (University of Education Lahore, Multan Campus, 2026) and a Full-Stack Developer Intern at **Digital Skills House**. I build web applications with the **MERN stack** and **Next.js**, design and test REST APIs, and create workflow automations with **n8n** and webhooks.
  
 - 🔭 Currently building **Localify**, a platform that generates SEO-optimized rank-and-rent websites for local businesses (Next.js, TypeScript, PostgreSQL, OpenAI API)
-- 💼 Working as a Full-Stack Developer Intern at Digital Skills House (May 2026 – Present)
-- 🌱 Improving my skills in TypeScript, Next.js, database design, and clean, testable code
-- 📫 Reach me at **jniazi327@gmail.com**
+- Working as a Full-Stack Developer Intern at Digital Skills House (May 2026 – Present)
+- Improving my skills in TypeScript, Next.js, database design, and clean, testable code
+- Reach me at **jniazi327@gmail.com**
 ---
  
 ## 🛠️ Tech Stack
@@ -63,23 +63,23 @@ I am a Computer Science graduate (University of Education Lahore, Multan Campus,
  
 ---
  
-## 🚀 Featured Projects
+##  Featured Projects
  
-### 🏪 Multi-Tenant Inventory Management & POS System
+### Multi-Tenant Inventory Management & POS System
 A full-stack system that manages multiple shops from one platform.
  
 - **Stack:** React.js, Node.js, Express.js, Supabase (PostgreSQL), Tailwind CSS, JWT
 - Role-based access (Admin, Manager, Staff) with JWT and bcrypt authentication
 - Products and categories, stock levels and transfers between shops, POS billing, purchases and suppliers, quotations, and customer ledger/expense tracking
 - PDF invoices and receipts with PDFKit, and product image uploads with Cloudinary and Multer
-- 🔗 [Live Demo](https://vocal-fairy-4dc53a.netlify.app) · [Source Code](https://github.com/jawad-niazi/inventory)
-### 🩺 Smart Symptom Checker & Health Guidance Web App *(Final Year Project)*
+-  [Live Demo](https://vocal-fairy-4dc53a.netlify.app) · [Source Code](https://github.com/jawad-niazi/inventory)
+###  Smart Symptom Checker & Health Guidance Web App *(Final Year Project)*
 A health platform that helps users identify symptoms and find healthcare guidance.
  
 - **Stack:** React.js, Node.js, Express.js, MongoDB, SVG
 - Interactive SVG body map on the front end for easy symptom selection
 - Secure user authentication, routing logic, and structured MongoDB schemas
-- 🔗 [Live Demo](https://symptom-checker-frontend-flame.vercel.app) · [Frontend Code](https://github.com/jawad-niazi/symptom-checker-frontend) · [Backend Code](https://github.com/jawad-niazi/symptom-checker-backend)
+-  [Live Demo](https://symptom-checker-frontend-flame.vercel.app) · [Frontend Code](https://github.com/jawad-niazi/symptom-checker-frontend) · [Backend Code](https://github.com/jawad-niazi/symptom-checker-backend)
 ### 🏢 BizBranches – US Local Business Directory Portal
 A directory where users and business owners can list, search, and browse local businesses.
  
@@ -88,20 +88,20 @@ A directory where users and business owners can list, search, and browse local b
 - User authentication with password hashing, owner/user dashboards, and a feature for owners to claim their business
 - Admin panel to approve, reject, and verify listings
 - SEO-friendly URLs (`.htaccess`), sitemap generator, `robots.txt`, and meta tags
-- 🔗 [Source Code](https://github.com/jawad-niazi/bizbranch)
+-  [Source Code](https://github.com/jawad-niazi/bizbranch)
 ### ❄️ Fine Cool – Car AC & Service Website *(Client Project, Multan)*
 An animated, responsive website for a car AC and cooling service business.
  
 - **Stack:** React, TypeScript, TanStack Start, Tailwind CSS, Three.js, GSAP
 - Interactive 3D and scroll animations that showcase car AC components
 - Online booking form so customers can book in advance and avoid waiting at the workshop
-- 🔗 [Source Code](https://github.com/jawad-niazi/Ac-Car)
+-  [Source Code](https://github.com/jawad-niazi/Ac-Car)
 ### 🌐 Business Websites
 - **VAKS Global Trading** – multi-page B2B export website with products, markets, services, FAQs, and a quotation form, plus scroll animations. [Source Code](https://github.com/jawad-niazi/vaks)
 - **Valdetron International Logistics** – responsive logistics landing page with an animated hero, shipment tracking UI, and a quote calculator. [Source Code](https://github.com/jawad-niazi/logistic)
 ---
  
-## 🔨 Currently Building
+##  Currently Building
  
 ### Localify – Rank & Rent Site Generator *(In Progress)*
 A full-stack platform that generates SEO-optimized rank-and-rent websites for local businesses.
@@ -109,10 +109,10 @@ A full-stack platform that generates SEO-optimized rank-and-rent websites for lo
 - **Stack:** Next.js, TypeScript, PostgreSQL, OpenAI API
 - Uses OpenAI and SEO data APIs for keyword research and content generation
 - Includes user authentication and role-based access
-- 🔒 Private repository while in development
+- Private repository while in development
 ---
  
-## ⚙️ Workflow Automation
+## Workflow Automation
  
 Beyond web apps, I build API-driven automations with **n8n**, webhooks, and **SendGrid**, including:
  
@@ -141,7 +141,7 @@ Beyond web apps, I build API-driven automations with **n8n**, webhooks, and **Se
 </p>
 ---
  
-## 📬 Let's Connect
+## Let's Connect
  
 I am open to **Software Engineer / Full-Stack Developer** opportunities.
  
